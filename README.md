@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![qiaofugui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qiaofugui&show_icons=true&hide=contribs,prs&count_private=true&bg_color=30,77FFD2,6297DB,1EECFF&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/qiaofugui)
 
-### 🤔 我使用的编程语言
+### 🤔 The programming language I use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiaofugui&layout=compact)](https://github.com/qiaofugui)
 
 
